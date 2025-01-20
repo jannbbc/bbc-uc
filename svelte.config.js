@@ -5,14 +5,12 @@ import { vitePreprocess } from "@sveltejs/vite-plugin-svelte";
 const config = {
   kit: {
     adapter: adapter({
-      // Configure the adapter to output to the `build` directory
-      pages: "build", // The directory to place the built pages
-      assets: "build", // The directory to place the built assets
-      fallback: "index.html", // Set to null for single-page app routing (no fallback file)
+      pages: "build",
+      assets: "build",
+      fallback: "index.html",
     }),
-    // Set the base path for GitHub Pages (replace `your-repo-name` with your actual repo name)
     paths: {
-      base: "/your-repo-name", // GitHub Pages uses /username/repo-name as the base URL
+      base: "/bbc-uc",
     },
   },
   preprocess: vitePreprocess(),
