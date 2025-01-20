@@ -2,7 +2,7 @@
     import "../app.css";
     import { onMount } from 'svelte';
     export const prerender = true;
-
+    import { base } from '$app/paths';
     onMount(() => {
         document.title = "Big Black Cars Japan";
     });
