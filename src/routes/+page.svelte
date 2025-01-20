@@ -26,15 +26,15 @@
 
             <div class="mx-auto max-w-md text-center lg:mx-0 lg:text-left">
                 <!-- Flex container for the image and h2 only -->
-                <div class="lg:flex lg:items-center lg:gap-6 lg:justify-start">
-                    <!-- Image beside the h2 -->
+                <div class="flex flex-col items-center lg:flex-row lg:items-center lg:gap-6 lg:justify-start">
+                    <!-- Image beside the h2 on larger screens, above on mobile -->
                     <img class="w-24 h-24 object-cover rounded-md bg-white/5 ring-1 ring-white/10 lg:w-32 lg:h-32 mt-8"
                          src="https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/473687430_122107575086715759_972940679675600646_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VMhJdKGYC8EQ7kNvgFARyus&_nc_zt=23&_nc_ht=scontent-nrt1-1.xx&_nc_gid=AFGAyFyPrFXNNsV_EtXCv-g&oh=00_AYAaiDgRD6u-3kwrczHNBtbpWh32HsC735jC9BKQEkzpXw&oe=6793D20A"
                          alt="">
-
-                    <!-- Heading beside the image -->
+                
+                    <!-- Heading beside the image on large screens, above on mobile -->
                     <h2 class="text-balance text-3xl font-semibold tracking-tight text-white sm:text-4xl mt-8">Under Construction</h2>
-                </div>
+                </div>                
 
                 <!-- Paragraph and link, stacked below the h2 -->
                 <p class="mt-6 text-pretty text-lg/8 text-gray-300">Big Black Cars Japan is here to take your group travel to the next level! Whether it's a family reunion, corporate retreat, or just a squad adventure, we’ve got you covered.</p>
