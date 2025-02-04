@@ -29,7 +29,7 @@
                 <div class="flex flex-col items-center lg:flex-row lg:items-center lg:gap-6 lg:justify-start">
                     <!-- Image beside the h2 on larger screens, above on mobile -->
                     <img class="w-24 h-24 object-cover rounded-md bg-white/5 ring-1 ring-white/10 lg:w-32 lg:h-32 mt-8"
-                         src="https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/473687430_122107575086715759_972940679675600646_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VMhJdKGYC8EQ7kNvgFARyus&_nc_zt=23&_nc_ht=scontent-nrt1-1.xx&_nc_gid=AFGAyFyPrFXNNsV_EtXCv-g&oh=00_AYAaiDgRD6u-3kwrczHNBtbpWh32HsC735jC9BKQEkzpXw&oe=6793D20A"
+                         src="https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-6/473687430_122107575086715759_972940679675600646_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Aja_NtXcGmcQ7kNvgHNz_bY&_nc_zt=23&_nc_ht=scontent-nrt1-1.xx&_nc_gid=ATYY4UfaINTA-0sHvtlKslf&oh=00_AYAJeA2CdYxctvUCkeqAfoMBw9de8jPTY8EeUkyvPTq6MQ&oe=67A7988A"
                          alt="">
                 
                     <!-- Heading beside the image on large screens, above on mobile -->
